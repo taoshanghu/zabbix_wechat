@@ -1,8 +1,8 @@
 
 import urllib2, json, time, os, sys
 
-app_id = "wx529f209f568a5bf8"
-appsecret = "63f2189be142f78d099cf07813974d4c"
+app_id = ""
+appsecret = ""
 
 def wechat_template(open_id,access_token,link_url=None,HOST_ip=None,error_p=None,error_v=None,error_time=None,*args):
     template_id = "5zXcSMf2khfjxazSYN-2O3DDNY0NJ9Ua6LMGo0cCKSI"
