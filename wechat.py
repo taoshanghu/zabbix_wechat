@@ -1,4 +1,4 @@
-
+#!/usr/bin/env python
 import urllib2, json, time, os, sys
 
 app_id = ""
